@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.exe
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.deps.json
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.runtimeconfig.json
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.dll
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\bin\Debug\netcoreapp3.1\QuartzInterview.pdb
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.AssemblyInfo.cs
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.dll
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.pdb
+\\Mac\Home\Desktop\Personal\Quartz_Interview\QuartzInterview\QuartzInterview\obj\Debug\netcoreapp3.1\QuartzInterview.genruntimeconfig.cache

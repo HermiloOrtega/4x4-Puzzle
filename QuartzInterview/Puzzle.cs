@@ -11,6 +11,7 @@ namespace QuartzInterview
         int sumLinesSolved = 0;
         int lineEmptySpaces = 0;
         int emptySpace = -1;
+        bool possibleSolution = false;
 
         public int[,] puzzle { get; set; }
         public Puzzle() { }
@@ -27,11 +28,14 @@ namespace QuartzInterview
                 lineSum = 0;
                 lineEmptySpaces = 0;
                 emptySpace = -1;
+                possibleSolution = false;
 
                 if (SolveHorizontal() == 4) break;
                 if (SolveVertical() == 4) break;
                 SolveDiagonalTop();
                 SolveDiagonalBottom();
+                if (possibleSolution == false)
+                    return false;
             }
             return ValidateSolution();
         }
@@ -55,6 +59,7 @@ namespace QuartzInterview
                 {
                     puzzle[i, emptySpace] = puzzle[i, 4] - lineSum;
                     sumLinesSolved++;
+                    possibleSolution = true;
                 }
                 else if (lineEmptySpaces == 0) sumLinesSolved++;
             }
@@ -81,11 +86,9 @@ namespace QuartzInterview
                 {
                     puzzle[emptySpace, i] = puzzle[4, i] - lineSum;
                     sumLinesSolved++;
+                    possibleSolution = true;
                 }
-                else if (lineEmptySpaces == 0)
-                {
-                    sumLinesSolved++;
-                }
+                else if (lineEmptySpaces == 0) sumLinesSolved++;
             }
             return sumLinesSolved;
         }

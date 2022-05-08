@@ -42,14 +42,14 @@ namespace QuartzInterview
             Console.WriteLine(puzzle1.Solve() ? "Puzzle SOLVED!" : "Puzzle -NOT- SOLVED!");
             puzzle1.PrintPuzzle();
 
-            //Console.WriteLine();
-            //Console.WriteLine();
-            //Console.WriteLine("Puzzle Example 2 ============================");
-            //Puzzle puzzle2 = new Puzzle(example2, 17);
-            //puzzle2.PrintPuzzle();
-            //Console.WriteLine();
-            //Console.WriteLine(puzzle2.Solve() ? "Puzzle SOLVED!" : "Puzzle -NOT- SOLVED!");
-            //puzzle2.PrintPuzzle();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Puzzle Example 2 ============================");
+            Puzzle puzzle2 = new Puzzle(example2, 17);
+            puzzle2.PrintPuzzle();
+            Console.WriteLine();
+            Console.WriteLine(puzzle2.Solve() ? "Puzzle SOLVED!" : "Puzzle -NOT- SOLVED!");
+            puzzle2.PrintPuzzle();
 
             Console.WriteLine();
             Console.WriteLine();

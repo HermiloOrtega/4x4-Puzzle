@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\QuartzInterview\\QuartzInterview.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\QuartzInterview.csproj",
       "projectName": "QuartzInterview",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\QuartzInterview\\QuartzInterview.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\QuartzInterview.csproj",
       "packagesPath": "C:\\Users\\hermiloortega\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\QuartzInterview\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\Personal\\Quartz_Interview\\QuartzInterview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

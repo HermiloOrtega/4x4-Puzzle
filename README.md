@@ -1,2 +1,2 @@
-# Quatrz_Interview
-Quatrz Interview
+# Puzzle Exercise
+Puzzle Exercise and solution
